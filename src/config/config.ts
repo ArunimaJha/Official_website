@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Arunima Jha',
     title: 'Student at Christ University',
-    image: getAsset('images/profile.png'), // Customize or replace with your profile image
+    image: getAsset('C:\Users\hp\Documents\Github_Resume_Template\Official_website\public\images\image.png'), // Customize or replace with your profile image
     description:
       'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
       '\n' +
